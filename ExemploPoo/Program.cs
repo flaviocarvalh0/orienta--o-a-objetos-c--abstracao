@@ -72,6 +72,10 @@ namespace ExemploPoo
                         calculadora calc = new calculadora();
                         System.Console.WriteLine("Resultado da primeira soma: " + calc.Somar(1, 3));
                         System.Console.WriteLine("Resultado da segunda soma: " + calc.Somar(1, 3, 7));
+                        System.Console.WriteLine("Resultado da segunda Subtração: " + calc.Subtrair(5, 3));
+                        System.Console.WriteLine("Resultado da segunda Divisão: " + calc.Dividir(20, 10));
+                        System.Console.WriteLine("Resultado da segunda Multiplicação: " + calc.Multiplicar(10, 3));
+                        
                         break;
 
                     case "5":
@@ -137,7 +141,7 @@ namespace ExemploPoo
             Console.WriteLine("1 - Encapsulamento");
             Console.WriteLine("2 - abstração");
             Console.WriteLine("3 - Herança e Polimorfismo");
-            Console.WriteLine("4 - Polimorfismo em tempo de compilação");
+            Console.WriteLine("4 - Polimorfismo em tempo de compilação e Interface");
             Console.WriteLine("5 - Clase abstrata");
             Console.WriteLine("X - sair");
 
