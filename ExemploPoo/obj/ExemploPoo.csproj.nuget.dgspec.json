@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\flavi\\Desktop\\Nova pasta\\orientação a objetos c#\\ExemploPoo\\ExemploPoo.csproj": {}
+    "C:\\Users\\flavi\\Desktop\\Nova pasta\\orientação a objetos c#\\abstração\\ExemploPoo\\ExemploPoo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\flavi\\Desktop\\Nova pasta\\orientação a objetos c#\\ExemploPoo\\ExemploPoo.csproj": {
+    "C:\\Users\\flavi\\Desktop\\Nova pasta\\orientação a objetos c#\\abstração\\ExemploPoo\\ExemploPoo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\flavi\\Desktop\\Nova pasta\\orientação a objetos c#\\ExemploPoo\\ExemploPoo.csproj",
+        "projectUniqueName": "C:\\Users\\flavi\\Desktop\\Nova pasta\\orientação a objetos c#\\abstração\\ExemploPoo\\ExemploPoo.csproj",
         "projectName": "ExemploPoo",
-        "projectPath": "C:\\Users\\flavi\\Desktop\\Nova pasta\\orientação a objetos c#\\ExemploPoo\\ExemploPoo.csproj",
+        "projectPath": "C:\\Users\\flavi\\Desktop\\Nova pasta\\orientação a objetos c#\\abstração\\ExemploPoo\\ExemploPoo.csproj",
         "packagesPath": "C:\\Users\\flavi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\flavi\\Desktop\\Nova pasta\\orientação a objetos c#\\ExemploPoo\\obj\\",
+        "outputPath": "C:\\Users\\flavi\\Desktop\\Nova pasta\\orientação a objetos c#\\abstração\\ExemploPoo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\flavi\\AppData\\Roaming\\NuGet\\NuGet.Config",
