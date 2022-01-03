@@ -46,7 +46,6 @@ namespace ExemploPoo
                             Console.Write("Informe o salario: ");
                             prof.Salario = double.Parse(Console.ReadLine());
                             prof.Apresentar();
-                            Console.Write($"e recebo {prof.Salario}");
                         }
                         else if (escolha == 2)
                         {
@@ -59,7 +58,7 @@ namespace ExemploPoo
                             Console.Write("Informe a nota: ");
                             a1.Nota = int.Parse(Console.ReadLine());
                             a1.Apresentar();
-                            Console.Write($"Minha nota foi: {a1.Nota}");
+                            
                         }else
                         {
                             Console.WriteLine("Opção inválida!");
@@ -82,7 +81,7 @@ namespace ExemploPoo
             Console.WriteLine();
             Console.WriteLine("1 - Encapsulamento");
             Console.WriteLine("2 - abstração");
-            Console.WriteLine("3 - Herança");
+            Console.WriteLine("3 - Herança e Polimorfismo");
             Console.WriteLine("5 - sair");
 
             string opcaoUsuario = Console.ReadLine();

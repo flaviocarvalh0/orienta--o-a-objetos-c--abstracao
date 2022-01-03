@@ -7,7 +7,7 @@ namespace ExemploPoo.Models
         public int Idade { get; set; }
 
 
-        public void Apresentar()
+        public virtual void  Apresentar()
         {
             Console.WriteLine($"Olá, meu nome é {Nome} e tenho {Idade} anos");
         }
